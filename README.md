@@ -8,6 +8,6 @@ To run this project locally-
 
 -Locate the local repo using command line
 
--Run 'npm init'
+-Run 'npm install'
 
 -Run 'node index'
