@@ -4,8 +4,9 @@ Pet adoption website project for CSN 254.
 
 To run this project locally-
 
--Fork this repo and then clone it(or download in zip) 
+1. Fork this repo and then clone it.
 
--Locate the local repo using command line and enter the commands,
-      npm install
-      node index
+2. Locate this repo in the terminal and run the commands,
+
+        npm install
+        node index
