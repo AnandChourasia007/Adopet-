@@ -6,8 +6,6 @@ To run this project locally-
 
 -Fork this repo and then clone it(or download in zip) 
 
--Locate the local repo using command line
-
--Run 'npm install'
-
--Run 'node index'
+-Locate the local repo using command line and enter the commands,
+      npm install
+      node index
